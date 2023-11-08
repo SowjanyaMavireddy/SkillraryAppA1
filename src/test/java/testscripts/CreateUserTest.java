@@ -7,8 +7,8 @@ import org.testng.asserts.SoftAssert;
 
 import genericlibraries.BaseClass;
 import genericlibraries.IconstantPath;
-
-public class CreateUserTest extends BaseClass {
+//testScripts              
+public class CreateUserTest extends BaseClass{
 	
 	@Test
 	public void createUserTest() {
